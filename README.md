@@ -1,7 +1,7 @@
 ## Olá eu sou o Claudio Alexssandro Lino, programador e amante da tecnologia!
 "Costumo dizer que, mesmo que você tenha sucesso e ganhe muito dinheiro, se não for feliz, não se sentir leve, pleno, satisfeito, orgulhoso, sua trajetória não será uma história que merece ser contada, você não será FODA, mas apenas um fracassado bem remunerado." 
 
-Trecho do livro Seja foda! por Caio Carneiro livro que abriu minha mente e mudou a minha vioda
+Trecho do livro Seja foda! por Caio Carneiro livro que abriu minha mente e mudou a minha vida
 
   ##
 <div align="center">
